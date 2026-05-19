@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="SupportTicketSystem.Tests/SupportTicketSystem.Tests.csproj" Id="e8b51a4c-f503-4520-855c-77b0c7c70abe" />
   <Project Path="SupportTicketSystem/SupportTicketSystem.csproj" />
 </Solution>
